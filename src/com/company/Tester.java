@@ -1,9 +1,8 @@
 package com.company;
 
-public class Main {
+public class Tester {
+    public static void main(String[] args){
 
-    public static void main(String[] args) {
-/*
         String equationOne = ("79 + 3 * (4 + 82 - 68) - 7 +19");
         int answerOne = 79 + 3 * (4 + 82 - 68) - 7 +19;
         String equationTwo = ("(179 +21 +10)/ 7 + 181");
@@ -14,6 +13,5 @@ public class Main {
         System.out.println(equationOne + " = " + answerOne);
         System.out.println(equationTwo + " = " + answerTwo);
         System.out.println(equationThree + " = " + answerThree);
-*/
     }
 }
